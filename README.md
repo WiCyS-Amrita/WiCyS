@@ -1,46 +1,42 @@
 # WiCyS - Amrita School of Engineering, Amrita Vishwa Vidyapeetham
 
 <p align="center">
-  <img src="Assets/WiCyS_Amrita_School_of_Engineering_Amrita_Vishwa_Vidyapeetham_Student_Chapter_Logo.jpg" width="400"/>
+    <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/AVV_PNG.png" alt ="Amrita" width="300" />
+    <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/TIFAC-CORE_in_Cyber_Security.png" alt ="TIFAC-CYBER" width="108" />
 </p>
-
-## Chapter Officers
-
-### Faculty Coordinator 
-
-<p align="left">
-  <img src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/CS-RAM/blob/main/Assets/Faculties/AKM.jpg" width="150"/> <br/>
-  Ashok Kumar Mohan M, Asst. Prof
+## Blockchain - Research Interest Group (B-RIG)
+<p align="center">
+    <img src="https://avatars.githubusercontent.com/u/129193826?s=400&u=1fcd80a193fc7377208d6fb5a02686bcc8754f66&v=4" alt ="B-RIG" width="240" />
 </p>
-
-#### Student Officers
-
-<p align="left">
-  <img src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/Kerala-Blockchain-Academy-Innovation-Club/blob/main/Assets/Batch-1/Deepthi_J.jpg" width="150"/> <br/>
-  Ms. Deepthi J, President 
-</p>
-
-<p align="left">
-  <img src="https://camo.githubusercontent.com/19d527a3e6e124c6cce96cb83deb1c9f7c091fa15f9bb837fcdbbe414289794f/68747470733a2f2f72616d616775727572616468616b726973686e616e2e6769746875622e696f2f5465616d2f5465616d2f32314359532f526f73686e695f562e706e67" width="150"/> <br/>
-  Ms. Roshni V, Vice President 
-</p>
-
-<p align="left">
-  <img src="Assets/Tanvi_Sonti.png" width="150"/> <br/>
-  Ms. Sri Sai Tanvi Sonti, Secretary
-</p>
-
-<p align="left">
-  <img src="Assets/Suhita_Bala.png" width="150"/> <br/>
-  Ms. Kommuri Sai Suhitha Bala, Treasurer
-</p>
-
-<p align="left">
-  <img src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/Kerala-Blockchain-Academy-Innovation-Club/blob/main/Assets/Batch-1/Yaswanth.jpg" width="150"/> <br/>
-  Mr. Yaswanth Gadamsetti, PRO
-</p>
-
-<p align="left">
-  <img src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/Kerala-Blockchain-Academy-Innovation-Club/blob/main/Assets/Batch-1/Venkata_Revan.png" width="150"/> <br/>
-  Mr. Venkata Revan Nagireddy, Social Lead
-</p>
+### Core Team: 2022 - 2023
+<table>
+    <tr>
+        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Ramaguru.png" alt="Ramaguru Radhakrishnan" width=144></td>
+        <td> <b> Mr. Ramaguru Radhakrishnan </b> <br/> 
+         Faculty Coordinator / Mentor / Founder <br/> 
+         BRIG.22.0001 </td> 
+    </tr>
+    <tr>
+        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Vinayak.jpg" alt="Vinayak R" width=144> </td>
+        <td> <b>Mr. Vinayak R </b>b<br/> 
+        <td> <b>Mr. Vinayak R </b><br/> 
+        President <br/>
+		BRIG.22.0012 </td>		
+    </tr>
+@@ -43,13 +43,13 @@
+    </tr>
+    <tr>
+        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Hitesh.jpg" alt="Karanam Hitesh Manjunath" width=144> </td> 
+        <td>Mr. Karanam Hitesh Manjunath <br/> 
+        <td><b>Mr. Karanam Hitesh Manjunath </b> <br/> 
+        Treasurer<br/> 
+		BRIG.22.0017 </td>
+    </tr>
+    <tr>
+		<td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Kishore.jpg" alt="Kishore M" width=144> </td> 
+		<td>Mr. Kishore M <br/>
+		<td><b>Mr. Kishore M </b><br/>
+		Public Relations Officer<br/> 
+		BRIG.23.0018<br/> 
+    </tr>
+</table>
