@@ -5,7 +5,7 @@
 
 ## WiCyS Amrita Student Chapter (WASC)
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/129193826?s=400&u=1fcd80a193fc7377208d6fb5a02686bcc8754f66&v=4" alt ="B-RIG" width="240" />
+    <img src="https://github.com/WiCyS-Amrita/WiCyS/blob/main/Assets/WiCyS_Amrita_School_of_Engineering_Amrita_Vishwa_Vidyapeetham_Student_Chapter_Logo.jpg" alt ="B-RIG" width="240" />
 </p>
 
 ### Core Team: 2022 - 2023
