@@ -24,7 +24,7 @@
 		    WASC.CB.22.0003 </td>		
     </tr>
     <tr>
-        <td><img src="https://github.com/WiCyS-Amrita/.github/blob/main/profile/images/Roshni.png" alt="Roshni V" width=144> </td> 
+        <td><img src="https://camo.githubusercontent.com/19d527a3e6e124c6cce96cb83deb1c9f7c091fa15f9bb837fcdbbe414289794f/68747470733a2f2f72616d616775727572616468616b726973686e616e2e6769746875622e696f2f5465616d2f5465616d2f32314359532f526f73686e695f562e706e67" alt="Roshni V" width=144> </td> 
         <td><b>Ms. Roshni V </b> <br/> 
         Vice-President <br/> 
 		    WASC.CB.22.0004 </td>	 
