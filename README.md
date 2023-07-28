@@ -3,7 +3,7 @@
     <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/TIFAC-CORE_in_Cyber_Security.png" alt ="TIFAC-CYBER" width="108" />
 </p>
 
-## Blockchain - Research Interest Group (B-RIG)
+## WiCyS Amrita Student Chapter (WASC)
 <p align="center">
     <img src="https://avatars.githubusercontent.com/u/129193826?s=400&u=1fcd80a193fc7377208d6fb5a02686bcc8754f66&v=4" alt ="B-RIG" width="240" />
 </p>
@@ -12,45 +12,41 @@
 
 <table>
     <tr>
-        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Ramaguru.png" alt="Ramaguru Radhakrishnan" width=144></td>
+        <td><img src="https://github.com/WiCyS-Amrita/.github/blob/main/profile/images/Ramaguru.png" alt="Ramaguru Radhakrishnan" width=144></td>
         <td> <b> Mr. Ramaguru Radhakrishnan </b> <br/> 
-         Faculty Coordinator / Mentor / Founder <br/> 
-         BRIG.22.0001 </td> 
-    </tr>
+         Faculty Advisor / Mentor <br/> 
+         WASC.CB.22.0002 </td> 
+    </tr>WiCyS-Amrita
     <tr>
-        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Vinayak.jpg" alt="Vinayak R" width=144> </td>
-        <td> <b>Mr. Vinayak R </b><br/> 
+        <td><img src="https://github.com/WiCyS-Amrita/.github/blob/main/profile/images/Deepthi.png" alt="Deepthi J" width=144> </td>
+        <td> <b>Ms. Deepthi J </b><br/> 
         President <br/>
-		BRIG.22.0012 </td>		
+		    WASC.CB.22.0003 </td>		
     </tr>
     <tr>
-        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Manomithran.jpg" alt="Manomithran G" width=144> </td> 
-        <td><b>Mr. Manomithran G </b> <br/> 
+        <td><img src="https://github.com/WiCyS-Amrita/.github/blob/main/profile/images/Roshni.png" alt="Roshni V" width=144> </td> 
+        <td><b>Ms. Roshni V </b> <br/> 
         Vice-President <br/> 
-		BRIG.22.0013 </td>	 
+		    WASC.CB.22.0004 </td>	 
     </tr>
     <tr> 
-        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Mittul.jpg" alt="Mittul R" width=144> </td> 
-        <td><b>Mr. Mittul R </b><br/> 
-        Secretary <br/> 
-		BRIG.23.0015 </td>
+        <td><img src="https://github.com/WiCyS-Amrita/.github/blob/main/profile/images/Suhitha.png" alt="Suhitha K" width=144> </td> 
+        <td><b>Ms. Kommuri Sai Suhitha Bala </b><br/> 
+        Treasurer <br/> 
+		    WASC.CB.22.0006 </td>
     </tr>
     <tr>
-        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Revan.jpg" alt="Nagireddy Venkata Revan" width=144> </td> 
-        <td><b>Mr. Nagireddy Venkata Revan </b> <br/> 
-        Joint-Secretary <br/> 
-		BRIG.23.0016 </td>
+        <td><img src="https://github.com/WiCyS-Amrita/.github/blob/main/profile/images/Yaswanth.png" alt="Yaswanth G" width=144> </td> 
+        <td><b>Mr. Yaswanth Gadamsetti </b> <br/> 
+        Design Lead<br/> 
+		    WASC.CB.22.0007 </td>
     </tr>
     <tr>
-        <td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Hitesh.jpg" alt="Karanam Hitesh Manjunath" width=144> </td> 
-        <td><b>Mr. Karanam Hitesh Manjunath </b> <br/> 
-        Treasurer<br/> 
-		BRIG.22.0017 </td>
+        <td><img src="https://github.com/WiCyS-Amrita/.github/blob/main/profile/images/Aishwarya.png" alt="Aishwarya G S" width=144> </td> 
+        <td><b>Ms. Aishwarya G S </b> <br/> 
+        Voice of the Club <br/> 
+		    WASC.CB.22.0009</td>
     </tr>
-    <tr>
-		<td><img src="https://github.com/B-RIG/.github/blob/main/profile/images/Kishore.jpg" alt="Kishore M" width=144> </td> 
-		<td><b>Mr. Kishore M </b><br/>
-		Public Relations Officer<br/> 
-		BRIG.23.0018<br/> 
-    </tr>  
+   
+ 
 </table>
